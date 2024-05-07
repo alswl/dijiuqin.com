@@ -3,6 +3,6 @@ pelican==3.7.1
 fabric3==1.13.1.post1
 beautifulsoup4==4.6.0
 markdown==2.6.8
-pycryptodome==3.9.4
+pycryptodome==3.19.1
 ghp-import==0.5.5
 
